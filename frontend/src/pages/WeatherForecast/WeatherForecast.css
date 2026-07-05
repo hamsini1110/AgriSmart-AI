@@ -1,0 +1,79 @@
+.weather-page {
+  min-height: 100vh;
+  background: #f4faf2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 20px;
+}
+
+.weather-page h1 {
+  color: #2e7d32;
+  font-size: 48px;
+  margin-bottom: 35px;
+}
+
+.weather-card {
+  width: 100%;
+  max-width: 700px;
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0,0,0,.08);
+}
+
+.weather-card h2 {
+  text-align: center;
+  color: #2e7d32;
+  margin-bottom: 20px;
+}
+
+.weather-card form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.weather-card input {
+  padding: 15px;
+  font-size: 18px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
+
+.weather-card button {
+  padding: 15px;
+  font-size: 18px;
+  background: #2e7d32;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.weather-card button:hover {
+  background: #1b5e20;
+}
+
+.weather-result {
+  margin-top: 30px;
+  padding: 25px;
+  background: #f8fff8;
+  border: 2px solid #2e7d32;
+  border-radius: 15px;
+}
+
+.weather-result h2 {
+  text-align: center;
+  color: #2e7d32;
+  margin-bottom: 20px;
+}
+
+.weather-result p {
+  font-size: 20px;
+  margin: 12px 0;
+}
+
+.weather-result strong {
+  color: #2e7d32;
+}

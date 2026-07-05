@@ -1,0 +1,40 @@
+.footer{
+    background:#1B5E20;
+    color:white;
+    text-align:center;
+    padding:60px 8%;
+}
+
+.footer h2{
+    font-size:36px;
+    margin-bottom:15px;
+}
+
+.footer p{
+    color:#ddd;
+    margin-bottom:20px;
+}
+
+.footer-links{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    margin-bottom:25px;
+    flex-wrap:wrap;
+}
+
+.footer-links a{
+    color:white;
+    text-decoration:none;
+    font-size:18px;
+    transition:.3s;
+}
+
+.footer-links a:hover{
+    color:#A5D6A7;
+}
+
+.copyright{
+    margin-top:20px;
+    font-size:15px;
+}

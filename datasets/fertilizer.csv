@@ -1,0 +1,2201 @@
+Crop,Nitrogen,Phosphorus,Potassium,Fertilizer
+rice,38,8,99,Urea
+rice,80,36,33,DAP
+rice,45,99,18,MOP
+rice,32,80,59,Urea
+rice,18,8,16,Urea
+rice,65,34,69,DAP
+rice,16,76,30,Urea
+rice,117,33,62,DAP
+rice,81,108,116,NPK 20-20-20
+rice,11,102,108,Urea
+rice,50,94,59,NPK 10-26-26
+rice,97,40,24,MOP
+rice,65,102,48,NPK 10-26-26
+rice,36,16,53,Urea
+rice,34,50,113,Urea
+rice,98,82,38,MOP
+rice,21,98,63,Urea
+rice,41,53,15,MOP
+rice,85,111,85,NPK 20-20-20
+rice,102,78,29,MOP
+rice,27,10,89,Urea
+rice,68,103,42,NPK 10-26-26
+rice,30,114,34,Urea
+rice,35,53,40,Urea
+rice,126,86,111,NPK 20-20-20
+rice,103,25,52,DAP
+rice,100,31,90,DAP
+rice,78,94,92,Organic Compost
+rice,28,82,86,Urea
+rice,53,73,98,Organic Compost
+rice,72,25,64,DAP
+rice,107,39,86,DAP
+rice,66,92,46,NPK 10-26-26
+rice,24,34,110,Urea
+rice,18,108,45,Urea
+rice,112,39,13,DAP
+rice,64,77,117,Organic Compost
+rice,90,32,88,DAP
+rice,137,55,118,Organic Compost
+rice,127,23,38,DAP
+rice,45,36,100,DAP
+rice,77,100,79,Organic Compost
+rice,119,119,79,Organic Compost
+rice,112,51,33,MOP
+rice,45,70,68,NPK 10-26-26
+rice,33,101,11,Urea
+rice,38,24,85,Urea
+rice,50,106,92,Organic Compost
+rice,118,81,13,MOP
+rice,108,53,81,Organic Compost
+rice,129,72,37,MOP
+rice,12,92,97,Urea
+rice,39,92,118,Urea
+rice,78,103,87,Organic Compost
+rice,97,19,42,DAP
+rice,121,25,63,DAP
+rice,10,97,117,Urea
+rice,77,69,102,Organic Compost
+rice,55,69,18,MOP
+rice,86,112,86,NPK 20-20-20
+rice,139,82,30,MOP
+rice,49,52,102,Organic Compost
+rice,51,74,104,Organic Compost
+rice,10,81,46,Urea
+rice,135,7,19,DAP
+rice,102,117,111,NPK 20-20-20
+rice,88,35,12,DAP
+rice,71,117,77,Organic Compost
+rice,30,15,98,Urea
+rice,134,109,13,MOP
+rice,42,21,89,DAP
+rice,131,75,26,MOP
+rice,77,72,116,Organic Compost
+rice,118,32,74,DAP
+rice,61,96,44,NPK 10-26-26
+rice,112,90,88,NPK 20-20-20
+rice,105,61,120,Organic Compost
+rice,125,20,36,DAP
+rice,67,13,48,DAP
+rice,15,80,75,Urea
+rice,68,80,33,MOP
+rice,11,14,95,Urea
+rice,25,34,13,Urea
+rice,18,115,47,Urea
+rice,28,70,35,Urea
+rice,81,90,67,NPK 10-26-26
+rice,64,74,21,MOP
+rice,131,36,105,DAP
+rice,131,108,57,NPK 10-26-26
+rice,58,17,17,DAP
+rice,120,50,59,NPK 10-26-26
+rice,115,64,115,Organic Compost
+rice,23,91,88,Urea
+rice,35,12,56,Urea
+rice,96,107,115,NPK 20-20-20
+rice,37,36,29,Urea
+rice,58,73,62,NPK 10-26-26
+rice,45,59,28,MOP
+rice,81,64,36,MOP
+rice,29,61,108,Urea
+maize,35,11,88,Urea
+maize,13,16,101,Urea
+maize,70,26,57,DAP
+maize,134,66,32,MOP
+maize,112,120,12,MOP
+maize,52,53,5,MOP
+maize,109,38,105,DAP
+maize,126,41,59,NPK 10-26-26
+maize,134,24,29,DAP
+maize,85,32,12,DAP
+maize,25,100,45,Urea
+maize,24,11,79,Urea
+maize,132,69,114,Organic Compost
+maize,50,12,70,DAP
+maize,30,113,28,Urea
+maize,27,81,13,Urea
+maize,70,56,20,MOP
+maize,73,79,81,Organic Compost
+maize,20,84,15,Urea
+maize,117,89,79,Organic Compost
+maize,90,38,31,DAP
+maize,90,35,38,DAP
+maize,111,21,90,DAP
+maize,86,63,45,NPK 10-26-26
+maize,28,6,63,Urea
+maize,35,14,73,Urea
+maize,64,69,38,MOP
+maize,43,49,117,Organic Compost
+maize,27,117,36,Urea
+maize,104,41,25,MOP
+maize,122,111,74,Organic Compost
+maize,87,83,108,NPK 20-20-20
+maize,12,90,109,Urea
+maize,86,89,18,MOP
+maize,44,38,19,DAP
+maize,37,100,75,Urea
+maize,49,39,41,DAP
+maize,63,96,48,NPK 10-26-26
+maize,62,92,86,Organic Compost
+maize,77,69,67,NPK 10-26-26
+maize,74,120,113,Organic Compost
+maize,23,16,86,Urea
+maize,118,111,40,NPK 10-26-26
+maize,21,5,47,Urea
+maize,43,86,38,MOP
+maize,51,99,61,NPK 10-26-26
+maize,119,76,6,MOP
+maize,38,14,118,Urea
+maize,48,74,9,MOP
+maize,104,79,75,Organic Compost
+maize,47,60,21,MOP
+maize,20,44,51,Urea
+maize,20,120,50,Urea
+maize,63,92,36,MOP
+maize,36,50,104,Urea
+maize,114,84,100,NPK 20-20-20
+maize,49,35,115,DAP
+maize,51,107,108,Organic Compost
+maize,55,117,57,NPK 10-26-26
+maize,16,27,99,Urea
+maize,95,105,57,NPK 10-26-26
+maize,73,39,25,DAP
+maize,37,53,116,Urea
+maize,19,114,65,Urea
+maize,66,30,109,DAP
+maize,127,49,44,NPK 10-26-26
+maize,68,33,8,DAP
+maize,59,56,47,NPK 10-26-26
+maize,81,115,13,MOP
+maize,81,49,87,Organic Compost
+maize,140,56,91,Organic Compost
+maize,94,8,19,DAP
+maize,76,27,79,DAP
+maize,77,9,18,DAP
+maize,121,49,98,Organic Compost
+maize,90,60,82,Organic Compost
+maize,140,19,54,DAP
+maize,58,37,10,DAP
+maize,121,5,71,DAP
+maize,60,51,60,NPK 10-26-26
+maize,27,90,47,Urea
+maize,90,89,113,NPK 20-20-20
+maize,41,97,120,Organic Compost
+maize,86,69,44,NPK 10-26-26
+maize,114,46,56,NPK 10-26-26
+maize,85,75,21,MOP
+maize,59,58,90,Organic Compost
+maize,107,91,100,NPK 20-20-20
+maize,54,83,77,Organic Compost
+maize,87,56,75,Organic Compost
+maize,10,43,41,Urea
+maize,63,60,105,Organic Compost
+maize,92,64,61,NPK 10-26-26
+maize,123,91,32,MOP
+maize,140,65,106,Organic Compost
+maize,53,89,15,MOP
+maize,82,70,89,Organic Compost
+maize,95,16,109,DAP
+maize,70,91,44,NPK 10-26-26
+maize,67,108,30,MOP
+chickpea,47,8,10,DAP
+chickpea,72,65,83,Organic Compost
+chickpea,28,63,58,Urea
+chickpea,59,96,94,Organic Compost
+chickpea,108,68,56,NPK 10-26-26
+chickpea,72,23,88,DAP
+chickpea,11,119,101,Urea
+chickpea,37,104,59,Urea
+chickpea,66,27,107,DAP
+chickpea,128,11,76,DAP
+chickpea,73,113,20,MOP
+chickpea,126,22,107,DAP
+chickpea,128,90,72,Organic Compost
+chickpea,91,101,119,NPK 20-20-20
+chickpea,123,83,109,NPK 20-20-20
+chickpea,139,59,111,Organic Compost
+chickpea,124,119,25,MOP
+chickpea,131,62,38,MOP
+chickpea,73,112,86,Organic Compost
+chickpea,80,103,104,Organic Compost
+chickpea,134,85,35,MOP
+chickpea,80,61,14,MOP
+chickpea,83,35,39,DAP
+chickpea,95,45,119,Organic Compost
+chickpea,30,22,24,Urea
+chickpea,69,54,93,Organic Compost
+chickpea,49,95,32,MOP
+chickpea,26,58,57,Urea
+chickpea,94,74,64,NPK 10-26-26
+chickpea,116,12,31,DAP
+chickpea,117,54,120,Organic Compost
+chickpea,15,114,117,Urea
+chickpea,107,66,5,MOP
+chickpea,100,43,101,Organic Compost
+chickpea,109,114,119,NPK 20-20-20
+chickpea,117,73,100,Organic Compost
+chickpea,66,67,33,MOP
+chickpea,79,60,67,NPK 10-26-26
+chickpea,17,54,48,Urea
+chickpea,113,97,26,MOP
+chickpea,129,21,84,DAP
+chickpea,16,55,80,Urea
+chickpea,16,15,87,Urea
+chickpea,119,22,115,DAP
+chickpea,128,28,11,DAP
+chickpea,76,53,46,NPK 10-26-26
+chickpea,64,63,46,NPK 10-26-26
+chickpea,96,102,117,NPK 20-20-20
+chickpea,107,40,101,Organic Compost
+chickpea,117,37,111,DAP
+chickpea,30,65,7,Urea
+chickpea,23,49,33,Urea
+chickpea,27,104,88,Urea
+chickpea,20,101,8,Urea
+chickpea,73,30,112,DAP
+chickpea,15,84,24,Urea
+chickpea,71,21,65,DAP
+chickpea,39,77,32,Urea
+chickpea,129,94,37,MOP
+chickpea,104,26,82,DAP
+chickpea,39,104,109,Urea
+chickpea,51,44,18,MOP
+chickpea,16,44,78,Urea
+chickpea,106,55,96,Organic Compost
+chickpea,60,14,80,DAP
+chickpea,72,18,94,DAP
+chickpea,87,113,92,NPK 20-20-20
+chickpea,40,106,77,Organic Compost
+chickpea,20,49,73,Urea
+chickpea,119,89,52,NPK 10-26-26
+chickpea,27,69,87,Urea
+chickpea,97,6,113,DAP
+chickpea,117,110,67,NPK 10-26-26
+chickpea,37,60,51,Urea
+chickpea,127,95,24,MOP
+chickpea,121,27,98,DAP
+chickpea,79,83,108,Organic Compost
+chickpea,133,64,60,NPK 10-26-26
+chickpea,78,46,114,Organic Compost
+chickpea,72,111,16,MOP
+chickpea,81,117,62,NPK 10-26-26
+chickpea,72,101,64,NPK 10-26-26
+chickpea,107,48,8,MOP
+chickpea,136,113,46,NPK 10-26-26
+chickpea,56,67,32,MOP
+chickpea,100,107,38,MOP
+chickpea,97,40,117,Organic Compost
+chickpea,80,76,6,MOP
+chickpea,58,15,35,DAP
+chickpea,114,67,76,Organic Compost
+chickpea,71,93,65,NPK 10-26-26
+chickpea,135,62,106,Organic Compost
+chickpea,14,16,42,Urea
+chickpea,66,56,93,Organic Compost
+chickpea,72,44,89,Organic Compost
+chickpea,104,65,75,Organic Compost
+chickpea,98,59,100,Organic Compost
+chickpea,94,50,94,Organic Compost
+chickpea,126,39,44,DAP
+chickpea,74,34,20,DAP
+kidneybeans,59,45,20,MOP
+kidneybeans,57,29,32,DAP
+kidneybeans,133,40,97,Organic Compost
+kidneybeans,82,17,111,DAP
+kidneybeans,59,42,34,MOP
+kidneybeans,102,27,43,DAP
+kidneybeans,13,95,73,Urea
+kidneybeans,42,40,10,MOP
+kidneybeans,23,75,42,Urea
+kidneybeans,42,86,116,Organic Compost
+kidneybeans,135,18,116,DAP
+kidneybeans,13,78,41,Urea
+kidneybeans,130,66,61,NPK 10-26-26
+kidneybeans,97,28,11,DAP
+kidneybeans,74,115,66,NPK 10-26-26
+kidneybeans,39,110,13,Urea
+kidneybeans,112,67,14,MOP
+kidneybeans,23,24,24,Urea
+kidneybeans,87,15,36,DAP
+kidneybeans,40,76,102,Organic Compost
+kidneybeans,116,82,81,NPK 20-20-20
+kidneybeans,67,104,71,Organic Compost
+kidneybeans,107,62,61,NPK 10-26-26
+kidneybeans,86,115,80,Organic Compost
+kidneybeans,119,44,77,Organic Compost
+kidneybeans,25,83,99,Urea
+kidneybeans,35,102,31,Urea
+kidneybeans,64,38,89,DAP
+kidneybeans,30,25,35,Urea
+kidneybeans,54,75,14,MOP
+kidneybeans,50,5,57,DAP
+kidneybeans,125,93,81,NPK 20-20-20
+kidneybeans,130,42,9,MOP
+kidneybeans,69,41,95,Organic Compost
+kidneybeans,82,94,115,NPK 20-20-20
+kidneybeans,126,14,92,DAP
+kidneybeans,69,38,105,DAP
+kidneybeans,60,59,19,MOP
+kidneybeans,67,87,24,MOP
+kidneybeans,78,110,23,MOP
+kidneybeans,28,12,26,Urea
+kidneybeans,88,81,100,NPK 20-20-20
+kidneybeans,83,61,20,MOP
+kidneybeans,129,93,43,NPK 10-26-26
+kidneybeans,113,39,69,DAP
+kidneybeans,136,61,15,MOP
+kidneybeans,20,118,60,Urea
+kidneybeans,92,82,37,MOP
+kidneybeans,16,16,34,Urea
+kidneybeans,15,102,91,Urea
+kidneybeans,78,78,10,MOP
+kidneybeans,54,65,71,NPK 17-17-17
+kidneybeans,123,40,28,MOP
+kidneybeans,121,86,109,NPK 20-20-20
+kidneybeans,135,16,65,DAP
+kidneybeans,99,57,47,NPK 10-26-26
+kidneybeans,92,90,18,MOP
+kidneybeans,51,47,57,NPK 10-26-26
+kidneybeans,136,41,89,Organic Compost
+kidneybeans,112,109,102,NPK 20-20-20
+kidneybeans,19,63,16,Urea
+kidneybeans,90,37,46,DAP
+kidneybeans,39,103,56,Urea
+kidneybeans,10,89,116,Urea
+kidneybeans,128,57,11,MOP
+kidneybeans,58,71,51,NPK 10-26-26
+kidneybeans,137,85,61,NPK 10-26-26
+kidneybeans,23,31,39,Urea
+kidneybeans,43,41,61,NPK 10-26-26
+kidneybeans,134,20,8,DAP
+kidneybeans,71,95,25,MOP
+kidneybeans,89,75,6,MOP
+kidneybeans,114,16,33,DAP
+kidneybeans,39,64,20,Urea
+kidneybeans,49,68,96,Organic Compost
+kidneybeans,84,70,95,Organic Compost
+kidneybeans,79,58,111,Organic Compost
+kidneybeans,133,65,36,MOP
+kidneybeans,126,75,23,MOP
+kidneybeans,108,29,81,DAP
+kidneybeans,140,100,117,NPK 20-20-20
+kidneybeans,44,115,13,MOP
+kidneybeans,80,103,106,Organic Compost
+kidneybeans,116,48,105,Organic Compost
+kidneybeans,139,39,110,DAP
+kidneybeans,10,41,97,Urea
+kidneybeans,86,112,80,Organic Compost
+kidneybeans,135,115,24,MOP
+kidneybeans,124,73,66,NPK 10-26-26
+kidneybeans,98,47,75,Organic Compost
+kidneybeans,106,63,46,NPK 10-26-26
+kidneybeans,58,94,35,MOP
+kidneybeans,108,34,114,DAP
+kidneybeans,115,10,45,DAP
+kidneybeans,131,95,108,NPK 20-20-20
+kidneybeans,107,54,89,Organic Compost
+kidneybeans,48,68,9,MOP
+kidneybeans,42,69,80,NPK 17-17-17
+kidneybeans,94,116,17,MOP
+kidneybeans,122,17,72,DAP
+pigeonpeas,126,6,97,DAP
+pigeonpeas,46,57,116,Organic Compost
+pigeonpeas,49,14,65,DAP
+pigeonpeas,77,48,84,Organic Compost
+pigeonpeas,111,88,15,MOP
+pigeonpeas,94,114,91,NPK 20-20-20
+pigeonpeas,107,45,85,Organic Compost
+pigeonpeas,134,116,74,Organic Compost
+pigeonpeas,19,84,13,Urea
+pigeonpeas,70,85,92,Organic Compost
+pigeonpeas,83,34,100,DAP
+pigeonpeas,33,60,17,Urea
+pigeonpeas,35,61,26,Urea
+pigeonpeas,86,120,8,MOP
+pigeonpeas,21,46,106,Urea
+pigeonpeas,24,42,50,Urea
+pigeonpeas,105,60,23,MOP
+pigeonpeas,72,72,57,NPK 10-26-26
+pigeonpeas,56,26,27,DAP
+pigeonpeas,30,83,116,Urea
+pigeonpeas,107,84,92,NPK 20-20-20
+pigeonpeas,71,68,79,NPK 17-17-17
+pigeonpeas,46,34,64,DAP
+pigeonpeas,75,63,37,MOP
+pigeonpeas,12,120,107,Urea
+pigeonpeas,129,120,41,NPK 10-26-26
+pigeonpeas,50,14,61,DAP
+pigeonpeas,98,80,43,NPK 10-26-26
+pigeonpeas,118,93,37,MOP
+pigeonpeas,126,113,43,NPK 10-26-26
+pigeonpeas,60,54,114,Organic Compost
+pigeonpeas,133,18,35,DAP
+pigeonpeas,107,78,50,NPK 10-26-26
+pigeonpeas,85,94,42,NPK 10-26-26
+pigeonpeas,15,111,89,Urea
+pigeonpeas,111,40,6,MOP
+pigeonpeas,22,82,100,Urea
+pigeonpeas,137,111,120,NPK 20-20-20
+pigeonpeas,83,104,107,NPK 20-20-20
+pigeonpeas,68,82,107,Organic Compost
+pigeonpeas,100,33,86,DAP
+pigeonpeas,58,84,37,MOP
+pigeonpeas,45,85,17,MOP
+pigeonpeas,20,44,105,Urea
+pigeonpeas,122,9,79,DAP
+pigeonpeas,103,98,21,MOP
+pigeonpeas,33,42,46,Urea
+pigeonpeas,116,27,30,DAP
+pigeonpeas,43,105,74,Organic Compost
+pigeonpeas,103,72,69,NPK 10-26-26
+pigeonpeas,79,111,26,MOP
+pigeonpeas,75,110,66,NPK 10-26-26
+pigeonpeas,85,100,116,NPK 20-20-20
+pigeonpeas,96,107,19,MOP
+pigeonpeas,129,14,23,DAP
+pigeonpeas,67,115,91,Organic Compost
+pigeonpeas,111,113,107,NPK 20-20-20
+pigeonpeas,103,16,106,DAP
+pigeonpeas,111,6,38,DAP
+pigeonpeas,41,63,52,NPK 10-26-26
+pigeonpeas,77,79,53,NPK 10-26-26
+pigeonpeas,105,18,91,DAP
+pigeonpeas,69,65,8,MOP
+pigeonpeas,93,83,33,MOP
+pigeonpeas,26,86,110,Urea
+pigeonpeas,128,94,43,NPK 10-26-26
+pigeonpeas,114,19,22,DAP
+pigeonpeas,21,9,43,Urea
+pigeonpeas,136,19,17,DAP
+pigeonpeas,70,118,73,Organic Compost
+pigeonpeas,44,54,63,NPK 10-26-26
+pigeonpeas,104,90,100,NPK 20-20-20
+pigeonpeas,117,80,100,Organic Compost
+pigeonpeas,49,118,58,NPK 10-26-26
+pigeonpeas,35,111,67,Urea
+pigeonpeas,114,40,9,MOP
+pigeonpeas,104,32,61,DAP
+pigeonpeas,123,35,114,DAP
+pigeonpeas,102,17,92,DAP
+pigeonpeas,104,74,120,Organic Compost
+pigeonpeas,101,12,55,DAP
+pigeonpeas,80,29,20,DAP
+pigeonpeas,126,16,89,DAP
+pigeonpeas,64,87,86,Organic Compost
+pigeonpeas,15,11,105,Urea
+pigeonpeas,95,36,21,DAP
+pigeonpeas,62,13,111,DAP
+pigeonpeas,63,80,32,MOP
+pigeonpeas,69,47,104,Organic Compost
+pigeonpeas,47,105,120,Organic Compost
+pigeonpeas,10,40,114,Urea
+pigeonpeas,47,21,74,DAP
+pigeonpeas,74,107,27,MOP
+pigeonpeas,38,89,115,Urea
+pigeonpeas,16,21,6,Urea
+pigeonpeas,101,106,105,NPK 20-20-20
+pigeonpeas,70,80,46,NPK 10-26-26
+pigeonpeas,14,27,38,Urea
+pigeonpeas,23,21,99,Urea
+pigeonpeas,117,72,19,MOP
+mothbeans,26,65,62,Urea
+mothbeans,102,70,80,Organic Compost
+mothbeans,37,62,69,Urea
+mothbeans,66,83,10,MOP
+mothbeans,87,63,87,Organic Compost
+mothbeans,17,12,66,Urea
+mothbeans,112,59,92,Organic Compost
+mothbeans,37,67,96,Urea
+mothbeans,123,14,120,DAP
+mothbeans,30,46,82,Urea
+mothbeans,47,13,21,DAP
+mothbeans,80,84,86,Organic Compost
+mothbeans,93,53,81,Organic Compost
+mothbeans,85,63,69,NPK 10-26-26
+mothbeans,120,17,106,DAP
+mothbeans,39,114,88,Urea
+mothbeans,65,60,62,NPK 10-26-26
+mothbeans,68,57,48,NPK 10-26-26
+mothbeans,126,56,58,NPK 10-26-26
+mothbeans,34,45,59,Urea
+mothbeans,90,90,37,MOP
+mothbeans,105,24,92,DAP
+mothbeans,131,13,16,DAP
+mothbeans,31,16,60,Urea
+mothbeans,34,100,99,Urea
+mothbeans,105,108,21,MOP
+mothbeans,25,80,76,Urea
+mothbeans,94,90,20,MOP
+mothbeans,115,50,116,Organic Compost
+mothbeans,118,116,97,NPK 20-20-20
+mothbeans,23,41,81,Urea
+mothbeans,89,50,18,MOP
+mothbeans,139,32,24,DAP
+mothbeans,133,33,113,DAP
+mothbeans,37,49,113,Urea
+mothbeans,104,19,102,DAP
+mothbeans,81,78,33,MOP
+mothbeans,119,113,76,Organic Compost
+mothbeans,16,82,89,Urea
+mothbeans,78,8,28,DAP
+mothbeans,79,94,102,Organic Compost
+mothbeans,89,48,49,NPK 10-26-26
+mothbeans,11,28,116,Urea
+mothbeans,46,77,89,Organic Compost
+mothbeans,112,13,23,DAP
+mothbeans,17,16,100,Urea
+mothbeans,65,53,58,NPK 10-26-26
+mothbeans,126,48,25,MOP
+mothbeans,104,44,97,Organic Compost
+mothbeans,93,104,77,Organic Compost
+mothbeans,31,118,11,Urea
+mothbeans,49,25,101,DAP
+mothbeans,22,91,15,Urea
+mothbeans,79,61,89,Organic Compost
+mothbeans,118,67,82,Organic Compost
+mothbeans,123,58,39,MOP
+mothbeans,65,101,70,Organic Compost
+mothbeans,39,49,60,Urea
+mothbeans,38,41,91,Urea
+mothbeans,134,72,90,Organic Compost
+mothbeans,88,10,33,DAP
+mothbeans,111,81,12,MOP
+mothbeans,11,31,43,Urea
+mothbeans,64,103,22,MOP
+mothbeans,75,42,46,NPK 10-26-26
+mothbeans,40,5,68,DAP
+mothbeans,120,27,21,DAP
+mothbeans,107,73,95,Organic Compost
+mothbeans,68,69,76,NPK 17-17-17
+mothbeans,100,14,55,DAP
+mothbeans,20,60,7,Urea
+mothbeans,127,14,115,DAP
+mothbeans,90,78,59,NPK 10-26-26
+mothbeans,113,95,86,NPK 20-20-20
+mothbeans,116,42,19,MOP
+mothbeans,113,7,46,DAP
+mothbeans,53,107,84,Organic Compost
+mothbeans,127,111,93,NPK 20-20-20
+mothbeans,102,16,60,DAP
+mothbeans,37,36,60,Urea
+mothbeans,112,72,15,MOP
+mothbeans,111,116,44,NPK 10-26-26
+mothbeans,96,33,47,DAP
+mothbeans,53,14,70,DAP
+mothbeans,39,72,70,Urea
+mothbeans,59,120,104,Organic Compost
+mothbeans,99,49,98,Organic Compost
+mothbeans,47,35,18,DAP
+mothbeans,47,37,30,DAP
+mothbeans,54,82,24,MOP
+mothbeans,29,27,103,Urea
+mothbeans,136,64,101,Organic Compost
+mothbeans,124,92,117,NPK 20-20-20
+mothbeans,92,115,85,NPK 20-20-20
+mothbeans,90,24,61,DAP
+mothbeans,27,65,61,Urea
+mothbeans,87,106,40,NPK 10-26-26
+mothbeans,24,50,69,Urea
+mothbeans,28,44,64,Urea
+mothbeans,125,9,12,DAP
+mungbean,104,111,41,NPK 10-26-26
+mungbean,29,87,115,Urea
+mungbean,33,83,81,Urea
+mungbean,139,54,64,NPK 10-26-26
+mungbean,20,62,108,Urea
+mungbean,58,46,82,Organic Compost
+mungbean,131,69,24,MOP
+mungbean,25,62,18,Urea
+mungbean,97,96,15,MOP
+mungbean,139,87,27,MOP
+mungbean,20,36,95,Urea
+mungbean,122,61,72,Organic Compost
+mungbean,50,51,52,NPK 10-26-26
+mungbean,82,54,57,NPK 10-26-26
+mungbean,96,91,81,NPK 20-20-20
+mungbean,23,106,85,Urea
+mungbean,95,13,47,DAP
+mungbean,34,76,91,Urea
+mungbean,108,41,37,MOP
+mungbean,48,47,15,MOP
+mungbean,46,49,44,NPK 10-26-26
+mungbean,110,21,81,DAP
+mungbean,31,44,76,Urea
+mungbean,106,87,106,NPK 20-20-20
+mungbean,94,109,21,MOP
+mungbean,33,87,90,Urea
+mungbean,118,70,51,NPK 10-26-26
+mungbean,14,51,44,Urea
+mungbean,56,32,48,DAP
+mungbean,134,29,33,DAP
+mungbean,45,24,14,DAP
+mungbean,85,113,105,NPK 20-20-20
+mungbean,35,69,103,Urea
+mungbean,19,89,48,Urea
+mungbean,43,81,53,NPK 10-26-26
+mungbean,49,25,28,DAP
+mungbean,52,97,61,NPK 10-26-26
+mungbean,21,57,51,Urea
+mungbean,70,61,83,Organic Compost
+mungbean,82,101,100,NPK 20-20-20
+mungbean,124,34,73,DAP
+mungbean,71,44,108,Organic Compost
+mungbean,130,120,111,NPK 20-20-20
+mungbean,59,52,91,Organic Compost
+mungbean,122,64,103,Organic Compost
+mungbean,82,104,53,NPK 10-26-26
+mungbean,138,72,58,NPK 10-26-26
+mungbean,51,109,30,MOP
+mungbean,45,116,37,MOP
+mungbean,23,87,66,Urea
+mungbean,105,75,18,MOP
+mungbean,41,41,15,MOP
+mungbean,51,39,62,DAP
+mungbean,47,111,60,NPK 10-26-26
+mungbean,33,33,109,Urea
+mungbean,125,118,49,NPK 10-26-26
+mungbean,16,58,11,Urea
+mungbean,111,69,52,NPK 10-26-26
+mungbean,70,54,15,MOP
+mungbean,105,33,8,DAP
+mungbean,91,17,112,DAP
+mungbean,95,106,23,MOP
+mungbean,45,9,41,DAP
+mungbean,130,94,111,NPK 20-20-20
+mungbean,45,102,95,Organic Compost
+mungbean,130,62,83,Organic Compost
+mungbean,11,120,15,Urea
+mungbean,14,37,32,Urea
+mungbean,48,75,98,Organic Compost
+mungbean,118,19,104,DAP
+mungbean,83,35,43,DAP
+mungbean,41,11,35,DAP
+mungbean,117,86,106,NPK 20-20-20
+mungbean,127,13,19,DAP
+mungbean,137,81,73,Organic Compost
+mungbean,14,85,70,Urea
+mungbean,71,96,23,MOP
+mungbean,84,59,5,MOP
+mungbean,100,35,78,DAP
+mungbean,116,28,90,DAP
+mungbean,31,72,51,Urea
+mungbean,27,72,74,Urea
+mungbean,139,105,69,NPK 10-26-26
+mungbean,15,54,116,Urea
+mungbean,130,10,86,DAP
+mungbean,109,52,37,MOP
+mungbean,14,50,105,Urea
+mungbean,27,49,35,Urea
+mungbean,36,103,79,Urea
+mungbean,95,22,10,DAP
+mungbean,100,74,48,NPK 10-26-26
+mungbean,54,111,104,Organic Compost
+mungbean,128,94,66,NPK 10-26-26
+mungbean,56,108,22,MOP
+mungbean,26,96,104,Urea
+mungbean,127,9,42,DAP
+mungbean,61,10,106,DAP
+mungbean,61,118,10,MOP
+mungbean,90,44,70,Organic Compost
+mungbean,111,109,74,Organic Compost
+blackgram,131,37,9,DAP
+blackgram,58,41,50,NPK 10-26-26
+blackgram,22,115,88,Urea
+blackgram,94,39,20,DAP
+blackgram,104,60,118,Organic Compost
+blackgram,112,100,61,NPK 10-26-26
+blackgram,108,48,28,MOP
+blackgram,137,93,68,NPK 10-26-26
+blackgram,104,107,71,Organic Compost
+blackgram,78,107,15,MOP
+blackgram,118,15,60,DAP
+blackgram,56,74,42,NPK 10-26-26
+blackgram,92,18,15,DAP
+blackgram,93,89,42,NPK 10-26-26
+blackgram,88,62,82,Organic Compost
+blackgram,119,26,93,DAP
+blackgram,123,49,62,NPK 10-26-26
+blackgram,20,98,116,Urea
+blackgram,100,83,60,NPK 10-26-26
+blackgram,80,86,106,Organic Compost
+blackgram,24,14,90,Urea
+blackgram,113,51,70,Organic Compost
+blackgram,50,8,23,DAP
+blackgram,122,9,21,DAP
+blackgram,27,35,104,Urea
+blackgram,103,51,54,NPK 10-26-26
+blackgram,18,82,24,Urea
+blackgram,125,52,52,NPK 10-26-26
+blackgram,123,102,14,MOP
+blackgram,45,72,51,NPK 10-26-26
+blackgram,111,45,88,Organic Compost
+blackgram,81,36,19,DAP
+blackgram,16,99,28,Urea
+blackgram,137,71,54,NPK 10-26-26
+blackgram,40,38,104,DAP
+blackgram,76,95,62,NPK 10-26-26
+blackgram,64,83,41,NPK 10-26-26
+blackgram,135,30,20,DAP
+blackgram,44,114,14,MOP
+blackgram,125,27,120,DAP
+blackgram,123,16,108,DAP
+blackgram,91,90,49,NPK 10-26-26
+blackgram,26,75,74,Urea
+blackgram,84,119,43,NPK 10-26-26
+blackgram,50,96,95,Organic Compost
+blackgram,54,106,51,NPK 10-26-26
+blackgram,140,33,20,DAP
+blackgram,61,106,22,MOP
+blackgram,70,106,68,NPK 10-26-26
+blackgram,16,51,75,Urea
+blackgram,104,64,107,Organic Compost
+blackgram,43,83,118,Organic Compost
+blackgram,32,13,44,Urea
+blackgram,111,96,97,NPK 20-20-20
+blackgram,132,72,57,NPK 10-26-26
+blackgram,114,110,78,Organic Compost
+blackgram,28,21,45,Urea
+blackgram,28,62,64,Urea
+blackgram,98,21,117,DAP
+blackgram,56,103,21,MOP
+blackgram,120,69,116,Organic Compost
+blackgram,24,111,20,Urea
+blackgram,49,43,26,MOP
+blackgram,51,46,95,Organic Compost
+blackgram,67,49,71,NPK 17-17-17
+blackgram,82,113,15,MOP
+blackgram,74,30,86,DAP
+blackgram,80,21,85,DAP
+blackgram,87,83,73,Organic Compost
+blackgram,33,69,87,Urea
+blackgram,53,80,79,NPK 17-17-17
+blackgram,49,26,89,DAP
+blackgram,96,112,77,Organic Compost
+blackgram,20,110,115,Urea
+blackgram,17,15,10,Urea
+blackgram,77,88,31,MOP
+blackgram,116,84,86,NPK 20-20-20
+blackgram,17,68,118,Urea
+blackgram,84,87,43,NPK 10-26-26
+blackgram,133,36,108,DAP
+blackgram,113,43,63,NPK 10-26-26
+blackgram,28,93,12,Urea
+blackgram,50,61,58,NPK 10-26-26
+blackgram,133,64,31,MOP
+blackgram,97,82,23,MOP
+blackgram,90,115,96,NPK 20-20-20
+blackgram,91,98,115,NPK 20-20-20
+blackgram,98,56,21,MOP
+blackgram,104,70,76,Organic Compost
+blackgram,37,45,35,Urea
+blackgram,129,20,39,DAP
+blackgram,125,36,23,DAP
+blackgram,34,11,42,Urea
+blackgram,108,115,83,NPK 20-20-20
+blackgram,117,36,115,DAP
+blackgram,50,109,46,NPK 10-26-26
+blackgram,90,29,102,DAP
+blackgram,50,68,70,NPK 17-17-17
+blackgram,129,68,117,Organic Compost
+blackgram,88,68,7,MOP
+lentil,33,55,69,Urea
+lentil,127,35,32,DAP
+lentil,100,11,11,DAP
+lentil,82,68,81,Organic Compost
+lentil,130,41,73,Organic Compost
+lentil,12,113,18,Urea
+lentil,120,22,117,DAP
+lentil,77,98,51,NPK 10-26-26
+lentil,113,51,10,MOP
+lentil,112,11,77,DAP
+lentil,59,51,75,NPK 17-17-17
+lentil,83,14,54,DAP
+lentil,139,62,102,Organic Compost
+lentil,81,110,84,NPK 20-20-20
+lentil,40,21,17,DAP
+lentil,110,52,106,Organic Compost
+lentil,96,76,51,NPK 10-26-26
+lentil,46,30,82,DAP
+lentil,140,56,69,NPK 10-26-26
+lentil,20,10,9,Urea
+lentil,45,96,47,NPK 10-26-26
+lentil,131,71,63,NPK 10-26-26
+lentil,48,82,119,Organic Compost
+lentil,45,46,83,Organic Compost
+lentil,91,25,55,DAP
+lentil,86,80,48,NPK 10-26-26
+lentil,139,111,70,Organic Compost
+lentil,135,95,77,Organic Compost
+lentil,86,65,109,Organic Compost
+lentil,14,52,47,Urea
+lentil,38,58,79,Urea
+lentil,88,106,120,NPK 20-20-20
+lentil,16,81,65,Urea
+lentil,77,88,105,Organic Compost
+lentil,68,97,11,MOP
+lentil,132,26,72,DAP
+lentil,107,23,110,DAP
+lentil,72,9,78,DAP
+lentil,38,29,7,Urea
+lentil,122,45,58,NPK 10-26-26
+lentil,48,57,93,Organic Compost
+lentil,62,57,69,NPK 10-26-26
+lentil,130,116,113,NPK 20-20-20
+lentil,25,95,22,Urea
+lentil,63,76,46,NPK 10-26-26
+lentil,132,72,53,NPK 10-26-26
+lentil,90,27,63,DAP
+lentil,97,74,50,NPK 10-26-26
+lentil,77,83,66,NPK 10-26-26
+lentil,59,36,40,DAP
+lentil,86,33,43,DAP
+lentil,83,95,31,MOP
+lentil,135,45,66,NPK 10-26-26
+lentil,99,76,106,Organic Compost
+lentil,80,41,20,MOP
+lentil,107,119,55,NPK 10-26-26
+lentil,98,103,107,NPK 20-20-20
+lentil,47,42,10,MOP
+lentil,83,96,15,MOP
+lentil,98,61,88,Organic Compost
+lentil,75,100,66,NPK 10-26-26
+lentil,64,30,110,DAP
+lentil,79,76,94,Organic Compost
+lentil,79,22,18,DAP
+lentil,71,36,11,DAP
+lentil,67,86,34,MOP
+lentil,23,17,57,Urea
+lentil,94,96,65,NPK 10-26-26
+lentil,35,92,103,Urea
+lentil,45,5,75,DAP
+lentil,50,57,88,Organic Compost
+lentil,131,66,88,Organic Compost
+lentil,61,101,41,NPK 10-26-26
+lentil,92,41,87,Organic Compost
+lentil,25,103,16,Urea
+lentil,69,73,99,Organic Compost
+lentil,19,27,58,Urea
+lentil,55,9,112,DAP
+lentil,111,105,68,NPK 10-26-26
+lentil,57,100,116,Organic Compost
+lentil,84,117,9,MOP
+lentil,12,43,77,Urea
+lentil,37,47,41,Urea
+lentil,126,87,74,Organic Compost
+lentil,136,118,22,MOP
+lentil,139,64,39,MOP
+lentil,59,108,19,MOP
+lentil,94,25,98,DAP
+lentil,127,87,37,MOP
+lentil,57,6,99,DAP
+lentil,96,106,42,NPK 10-26-26
+lentil,59,27,83,DAP
+lentil,113,110,59,NPK 10-26-26
+lentil,93,16,56,DAP
+lentil,34,28,22,Urea
+lentil,132,46,36,MOP
+lentil,11,38,54,Urea
+lentil,70,62,101,Organic Compost
+lentil,78,47,43,NPK 10-26-26
+lentil,12,38,88,Urea
+pomegranate,102,93,35,MOP
+pomegranate,25,90,20,Urea
+pomegranate,129,44,25,MOP
+pomegranate,113,92,69,NPK 10-26-26
+pomegranate,89,93,20,MOP
+pomegranate,85,52,83,Organic Compost
+pomegranate,66,33,22,DAP
+pomegranate,132,24,63,DAP
+pomegranate,105,58,94,Organic Compost
+pomegranate,130,101,73,Organic Compost
+pomegranate,65,102,36,MOP
+pomegranate,30,72,62,Urea
+pomegranate,102,14,77,DAP
+pomegranate,38,12,111,Urea
+pomegranate,139,30,78,DAP
+pomegranate,48,26,46,DAP
+pomegranate,123,19,92,DAP
+pomegranate,62,96,79,Organic Compost
+pomegranate,135,16,120,DAP
+pomegranate,140,62,108,Organic Compost
+pomegranate,24,63,21,Urea
+pomegranate,116,63,77,Organic Compost
+pomegranate,24,76,64,Urea
+pomegranate,88,97,7,MOP
+pomegranate,111,37,109,DAP
+pomegranate,10,100,32,Urea
+pomegranate,28,10,59,Urea
+pomegranate,98,94,13,MOP
+pomegranate,25,119,13,Urea
+pomegranate,130,9,41,DAP
+pomegranate,114,28,103,DAP
+pomegranate,44,103,87,Organic Compost
+pomegranate,117,52,119,Organic Compost
+pomegranate,107,62,116,Organic Compost
+pomegranate,106,53,15,MOP
+pomegranate,44,88,115,Organic Compost
+pomegranate,99,20,27,DAP
+pomegranate,110,72,21,MOP
+pomegranate,67,111,5,MOP
+pomegranate,15,43,64,Urea
+pomegranate,118,73,53,NPK 10-26-26
+pomegranate,68,36,63,DAP
+pomegranate,98,24,40,DAP
+pomegranate,58,117,97,Organic Compost
+pomegranate,38,9,108,Urea
+pomegranate,117,83,103,NPK 20-20-20
+pomegranate,14,35,31,Urea
+pomegranate,27,17,81,Urea
+pomegranate,18,62,81,Urea
+pomegranate,22,36,99,Urea
+pomegranate,21,56,61,Urea
+pomegranate,69,74,32,MOP
+pomegranate,24,22,69,Urea
+pomegranate,84,34,109,DAP
+pomegranate,91,78,81,Organic Compost
+pomegranate,92,35,43,DAP
+pomegranate,46,89,71,Organic Compost
+pomegranate,66,57,43,NPK 10-26-26
+pomegranate,80,12,76,DAP
+pomegranate,54,85,91,Organic Compost
+pomegranate,119,76,68,NPK 10-26-26
+pomegranate,22,49,87,Urea
+pomegranate,107,105,72,Organic Compost
+pomegranate,91,94,58,NPK 10-26-26
+pomegranate,114,24,43,DAP
+pomegranate,106,28,101,DAP
+pomegranate,131,35,113,DAP
+pomegranate,67,43,114,Organic Compost
+pomegranate,46,108,64,NPK 10-26-26
+pomegranate,24,76,57,Urea
+pomegranate,116,76,72,Organic Compost
+pomegranate,44,54,36,MOP
+pomegranate,75,31,47,DAP
+pomegranate,30,62,113,Urea
+pomegranate,104,16,73,DAP
+pomegranate,58,11,39,DAP
+pomegranate,106,91,82,NPK 20-20-20
+pomegranate,20,116,14,Urea
+pomegranate,58,107,102,Organic Compost
+pomegranate,65,66,31,MOP
+pomegranate,95,43,6,MOP
+pomegranate,64,29,99,DAP
+pomegranate,40,100,101,Organic Compost
+pomegranate,132,36,94,DAP
+pomegranate,62,55,35,MOP
+pomegranate,92,104,41,NPK 10-26-26
+pomegranate,107,64,73,Organic Compost
+pomegranate,101,44,38,MOP
+pomegranate,102,70,117,Organic Compost
+pomegranate,137,64,17,MOP
+pomegranate,130,102,112,NPK 20-20-20
+pomegranate,91,31,52,DAP
+pomegranate,90,57,10,MOP
+pomegranate,66,99,23,MOP
+pomegranate,14,38,75,Urea
+pomegranate,116,42,24,MOP
+pomegranate,60,47,34,MOP
+pomegranate,107,77,111,Organic Compost
+pomegranate,72,68,75,NPK 17-17-17
+pomegranate,96,37,102,DAP
+banana,135,97,87,NPK 20-20-20
+banana,135,63,26,MOP
+banana,100,26,22,DAP
+banana,135,28,118,DAP
+banana,25,72,9,Urea
+banana,29,109,90,Urea
+banana,22,102,5,Urea
+banana,115,22,112,DAP
+banana,69,13,95,DAP
+banana,48,6,32,DAP
+banana,139,63,52,NPK 10-26-26
+banana,25,84,86,Urea
+banana,133,89,67,NPK 10-26-26
+banana,14,5,73,Urea
+banana,115,6,7,DAP
+banana,80,73,41,NPK 10-26-26
+banana,14,69,109,Urea
+banana,120,108,27,MOP
+banana,37,17,72,Urea
+banana,48,35,29,DAP
+banana,74,109,50,NPK 10-26-26
+banana,78,106,55,NPK 10-26-26
+banana,30,52,56,Urea
+banana,127,77,36,MOP
+banana,67,43,92,Organic Compost
+banana,30,88,114,Urea
+banana,18,16,56,Urea
+banana,107,53,75,Organic Compost
+banana,131,12,86,DAP
+banana,12,94,26,Urea
+banana,31,68,113,Urea
+banana,121,87,105,NPK 20-20-20
+banana,94,77,114,Organic Compost
+banana,34,119,72,Urea
+banana,20,34,32,Urea
+banana,131,39,10,DAP
+banana,29,92,40,Urea
+banana,18,27,113,Urea
+banana,90,7,31,DAP
+banana,46,101,110,Organic Compost
+banana,111,14,43,DAP
+banana,51,77,35,MOP
+banana,109,91,119,NPK 20-20-20
+banana,94,54,101,Organic Compost
+banana,45,106,93,Organic Compost
+banana,30,69,100,Urea
+banana,98,11,17,DAP
+banana,121,34,112,DAP
+banana,29,48,82,Urea
+banana,111,104,46,NPK 10-26-26
+banana,17,86,39,Urea
+banana,125,67,34,MOP
+banana,101,75,53,NPK 10-26-26
+banana,120,28,92,DAP
+banana,107,15,103,DAP
+banana,85,107,36,MOP
+banana,28,15,39,Urea
+banana,49,53,96,Organic Compost
+banana,49,99,54,NPK 10-26-26
+banana,91,51,18,MOP
+banana,33,5,44,Urea
+banana,123,51,102,Organic Compost
+banana,79,18,21,DAP
+banana,32,28,60,Urea
+banana,124,76,76,Organic Compost
+banana,114,18,8,DAP
+banana,32,50,75,Urea
+banana,33,81,81,Urea
+banana,93,115,54,NPK 10-26-26
+banana,13,42,57,Urea
+banana,109,104,15,MOP
+banana,72,78,71,NPK 17-17-17
+banana,53,92,53,NPK 10-26-26
+banana,53,22,39,DAP
+banana,87,39,68,DAP
+banana,47,13,26,DAP
+banana,121,40,58,NPK 10-26-26
+banana,86,66,105,Organic Compost
+banana,29,51,37,Urea
+banana,73,97,85,Organic Compost
+banana,136,81,83,NPK 20-20-20
+banana,60,63,18,MOP
+banana,44,43,5,MOP
+banana,111,47,112,Organic Compost
+banana,107,107,115,NPK 20-20-20
+banana,94,61,47,NPK 10-26-26
+banana,120,109,110,NPK 20-20-20
+banana,44,43,46,NPK 10-26-26
+banana,61,66,45,NPK 10-26-26
+banana,55,55,45,NPK 10-26-26
+banana,84,99,93,NPK 20-20-20
+banana,135,78,105,Organic Compost
+banana,72,46,53,NPK 10-26-26
+banana,81,109,105,NPK 20-20-20
+banana,110,51,19,MOP
+banana,61,80,74,NPK 17-17-17
+banana,56,92,103,Organic Compost
+banana,16,98,64,Urea
+banana,63,61,107,Organic Compost
+banana,84,111,93,NPK 20-20-20
+mango,27,109,113,Urea
+mango,114,91,68,NPK 10-26-26
+mango,45,86,43,NPK 10-26-26
+mango,71,37,89,DAP
+mango,49,96,59,NPK 10-26-26
+mango,106,14,62,DAP
+mango,132,79,56,NPK 10-26-26
+mango,139,116,93,NPK 20-20-20
+mango,117,74,9,MOP
+mango,102,94,119,NPK 20-20-20
+mango,31,18,103,Urea
+mango,73,89,90,Organic Compost
+mango,100,26,87,DAP
+mango,21,77,87,Urea
+mango,112,101,47,NPK 10-26-26
+mango,120,18,6,DAP
+mango,35,38,33,Urea
+mango,140,100,71,Organic Compost
+mango,66,62,52,NPK 10-26-26
+mango,110,64,103,Organic Compost
+mango,138,24,49,DAP
+mango,16,66,18,Urea
+mango,85,58,15,MOP
+mango,39,111,98,Urea
+mango,46,49,44,NPK 10-26-26
+mango,97,63,105,Organic Compost
+mango,62,71,66,NPK 10-26-26
+mango,99,65,17,MOP
+mango,122,97,94,NPK 20-20-20
+mango,125,45,13,MOP
+mango,86,10,108,DAP
+mango,39,7,113,Urea
+mango,97,87,18,MOP
+mango,52,99,36,MOP
+mango,54,75,25,MOP
+mango,94,76,59,NPK 10-26-26
+mango,128,34,107,DAP
+mango,113,85,28,MOP
+mango,57,86,89,Organic Compost
+mango,120,55,8,MOP
+mango,60,62,80,NPK 17-17-17
+mango,119,54,5,MOP
+mango,64,31,40,DAP
+mango,26,78,18,Urea
+mango,57,51,46,NPK 10-26-26
+mango,60,63,19,MOP
+mango,77,90,115,Organic Compost
+mango,135,72,86,Organic Compost
+mango,90,81,54,NPK 10-26-26
+mango,110,80,19,MOP
+mango,99,50,113,Organic Compost
+mango,127,84,27,MOP
+mango,86,83,80,Organic Compost
+mango,31,91,22,Urea
+mango,90,20,35,DAP
+mango,88,19,28,DAP
+mango,105,93,23,MOP
+mango,140,54,58,NPK 10-26-26
+mango,45,78,54,NPK 10-26-26
+mango,118,28,67,DAP
+mango,54,76,26,MOP
+mango,135,41,22,MOP
+mango,57,45,112,Organic Compost
+mango,125,84,11,MOP
+mango,101,6,67,DAP
+mango,44,29,109,DAP
+mango,108,76,69,NPK 10-26-26
+mango,136,57,92,Organic Compost
+mango,135,58,95,Organic Compost
+mango,123,67,26,MOP
+mango,31,77,8,Urea
+mango,66,42,9,MOP
+mango,80,33,73,DAP
+mango,83,26,104,DAP
+mango,127,77,100,Organic Compost
+mango,136,75,70,Organic Compost
+mango,38,78,19,Urea
+mango,78,104,74,Organic Compost
+mango,103,74,110,Organic Compost
+mango,20,102,97,Urea
+mango,122,74,32,MOP
+mango,118,18,99,DAP
+mango,73,43,116,Organic Compost
+mango,18,62,38,Urea
+mango,99,115,109,NPK 20-20-20
+mango,32,61,115,Urea
+mango,40,104,108,Organic Compost
+mango,70,31,108,DAP
+mango,99,115,95,NPK 20-20-20
+mango,119,26,83,DAP
+mango,45,105,31,MOP
+mango,62,108,12,MOP
+mango,99,73,40,NPK 10-26-26
+mango,53,46,95,Organic Compost
+mango,84,42,78,Organic Compost
+mango,78,114,70,Organic Compost
+mango,34,22,101,Urea
+mango,115,12,40,DAP
+mango,42,94,115,Organic Compost
+mango,43,36,23,DAP
+grapes,92,111,36,MOP
+grapes,110,67,23,MOP
+grapes,78,85,58,NPK 10-26-26
+grapes,106,62,14,MOP
+grapes,33,56,70,Urea
+grapes,81,93,117,NPK 20-20-20
+grapes,104,63,67,NPK 10-26-26
+grapes,93,79,5,MOP
+grapes,33,98,63,Urea
+grapes,101,113,13,MOP
+grapes,111,32,59,DAP
+grapes,64,68,39,MOP
+grapes,92,111,41,NPK 10-26-26
+grapes,96,75,78,Organic Compost
+grapes,43,77,114,Organic Compost
+grapes,134,105,48,NPK 10-26-26
+grapes,22,10,17,Urea
+grapes,127,7,20,DAP
+grapes,50,61,63,NPK 10-26-26
+grapes,10,59,30,Urea
+grapes,43,117,88,Organic Compost
+grapes,87,25,116,DAP
+grapes,80,16,88,DAP
+grapes,102,37,15,DAP
+grapes,105,90,120,NPK 20-20-20
+grapes,52,11,55,DAP
+grapes,88,97,94,NPK 20-20-20
+grapes,69,59,88,Organic Compost
+grapes,33,95,17,Urea
+grapes,10,32,66,Urea
+grapes,29,21,80,Urea
+grapes,67,71,92,Organic Compost
+grapes,123,6,6,DAP
+grapes,97,109,20,MOP
+grapes,118,93,21,MOP
+grapes,132,14,34,DAP
+grapes,108,16,98,DAP
+grapes,36,18,45,Urea
+grapes,104,117,43,NPK 10-26-26
+grapes,45,53,104,Organic Compost
+grapes,44,87,91,Organic Compost
+grapes,46,13,72,DAP
+grapes,12,83,88,Urea
+grapes,52,61,49,NPK 10-26-26
+grapes,64,85,100,Organic Compost
+grapes,48,57,83,Organic Compost
+grapes,123,115,32,MOP
+grapes,32,119,17,Urea
+grapes,45,101,20,MOP
+grapes,108,49,59,NPK 10-26-26
+grapes,90,106,22,MOP
+grapes,73,40,87,Organic Compost
+grapes,31,36,75,Urea
+grapes,82,104,93,NPK 20-20-20
+grapes,16,113,113,Urea
+grapes,87,31,71,DAP
+grapes,140,29,100,DAP
+grapes,110,42,87,Organic Compost
+grapes,23,105,119,Urea
+grapes,71,68,54,NPK 10-26-26
+grapes,38,35,68,Urea
+grapes,28,72,118,Urea
+grapes,13,51,45,Urea
+grapes,43,54,115,Organic Compost
+grapes,117,51,74,Organic Compost
+grapes,54,102,65,NPK 10-26-26
+grapes,28,7,80,Urea
+grapes,27,6,38,Urea
+grapes,65,10,12,DAP
+grapes,111,69,41,NPK 10-26-26
+grapes,138,103,58,NPK 10-26-26
+grapes,118,94,56,NPK 10-26-26
+grapes,31,86,73,Urea
+grapes,49,40,15,MOP
+grapes,89,15,70,DAP
+grapes,62,108,24,MOP
+grapes,93,55,80,Organic Compost
+grapes,26,44,94,Urea
+grapes,121,98,113,NPK 20-20-20
+grapes,71,12,36,DAP
+grapes,32,60,19,Urea
+grapes,126,83,82,NPK 20-20-20
+grapes,24,44,90,Urea
+grapes,54,20,6,DAP
+grapes,45,94,6,MOP
+grapes,51,68,49,NPK 10-26-26
+grapes,76,26,52,DAP
+grapes,42,100,104,Organic Compost
+grapes,78,98,118,Organic Compost
+grapes,40,103,120,Organic Compost
+grapes,17,47,108,Urea
+grapes,119,39,72,DAP
+grapes,26,38,96,Urea
+grapes,29,68,63,Urea
+grapes,140,51,12,MOP
+grapes,137,114,77,Organic Compost
+grapes,52,52,25,MOP
+grapes,75,103,18,MOP
+grapes,39,34,99,Urea
+grapes,140,5,10,DAP
+watermelon,13,36,10,Urea
+watermelon,130,51,54,NPK 10-26-26
+watermelon,48,27,114,DAP
+watermelon,19,75,107,Urea
+watermelon,117,33,46,DAP
+watermelon,73,58,97,Organic Compost
+watermelon,91,39,110,DAP
+watermelon,29,78,52,Urea
+watermelon,40,69,91,Organic Compost
+watermelon,23,27,33,Urea
+watermelon,21,56,13,Urea
+watermelon,129,115,41,NPK 10-26-26
+watermelon,89,46,16,MOP
+watermelon,126,6,52,DAP
+watermelon,61,42,77,NPK 17-17-17
+watermelon,87,99,84,NPK 20-20-20
+watermelon,72,64,52,NPK 10-26-26
+watermelon,136,103,104,NPK 20-20-20
+watermelon,60,98,120,Organic Compost
+watermelon,72,24,5,DAP
+watermelon,114,8,34,DAP
+watermelon,98,86,112,NPK 20-20-20
+watermelon,12,47,5,Urea
+watermelon,106,113,99,NPK 20-20-20
+watermelon,88,18,31,DAP
+watermelon,70,58,67,NPK 10-26-26
+watermelon,25,23,96,Urea
+watermelon,81,16,10,DAP
+watermelon,69,119,113,Organic Compost
+watermelon,115,94,119,NPK 20-20-20
+watermelon,105,63,100,Organic Compost
+watermelon,31,79,17,Urea
+watermelon,139,22,86,DAP
+watermelon,110,14,80,DAP
+watermelon,25,60,89,Urea
+watermelon,43,35,42,DAP
+watermelon,76,113,45,NPK 10-26-26
+watermelon,110,94,111,NPK 20-20-20
+watermelon,93,45,62,NPK 10-26-26
+watermelon,79,34,14,DAP
+watermelon,61,22,104,DAP
+watermelon,37,24,18,Urea
+watermelon,52,62,64,NPK 10-26-26
+watermelon,90,57,20,MOP
+watermelon,101,103,31,MOP
+watermelon,125,44,64,NPK 10-26-26
+watermelon,77,114,20,MOP
+watermelon,33,25,108,Urea
+watermelon,87,110,95,NPK 20-20-20
+watermelon,20,32,111,Urea
+watermelon,93,23,16,DAP
+watermelon,73,50,55,NPK 10-26-26
+watermelon,22,91,43,Urea
+watermelon,76,109,27,MOP
+watermelon,17,56,114,Urea
+watermelon,125,76,100,Organic Compost
+watermelon,73,17,64,DAP
+watermelon,36,107,106,Urea
+watermelon,45,20,6,DAP
+watermelon,25,111,104,Urea
+watermelon,66,21,30,DAP
+watermelon,112,52,92,Organic Compost
+watermelon,31,79,80,Urea
+watermelon,76,109,14,MOP
+watermelon,15,13,30,Urea
+watermelon,123,108,21,MOP
+watermelon,33,120,113,Urea
+watermelon,94,20,10,DAP
+watermelon,128,11,26,DAP
+watermelon,120,110,97,NPK 20-20-20
+watermelon,111,68,8,MOP
+watermelon,107,92,59,NPK 10-26-26
+watermelon,54,50,32,MOP
+watermelon,57,40,40,NPK 10-26-26
+watermelon,124,118,24,MOP
+watermelon,18,83,84,Urea
+watermelon,72,87,42,NPK 10-26-26
+watermelon,137,57,117,Organic Compost
+watermelon,132,12,16,DAP
+watermelon,81,54,22,MOP
+watermelon,117,30,87,DAP
+watermelon,73,85,107,Organic Compost
+watermelon,14,53,105,Urea
+watermelon,101,66,74,Organic Compost
+watermelon,134,49,77,Organic Compost
+watermelon,138,46,54,NPK 10-26-26
+watermelon,79,28,8,DAP
+watermelon,91,81,33,MOP
+watermelon,17,119,108,Urea
+watermelon,81,12,108,DAP
+watermelon,130,72,50,NPK 10-26-26
+watermelon,69,25,17,DAP
+watermelon,73,89,35,MOP
+watermelon,78,73,109,Organic Compost
+watermelon,24,102,33,Urea
+watermelon,109,50,112,Organic Compost
+watermelon,54,27,35,DAP
+watermelon,91,108,99,NPK 20-20-20
+watermelon,101,80,8,MOP
+watermelon,100,77,77,Organic Compost
+muskmelon,46,77,29,MOP
+muskmelon,136,74,44,NPK 10-26-26
+muskmelon,54,67,9,MOP
+muskmelon,33,12,34,Urea
+muskmelon,66,7,72,DAP
+muskmelon,132,5,47,DAP
+muskmelon,61,108,21,MOP
+muskmelon,97,96,27,MOP
+muskmelon,92,12,7,DAP
+muskmelon,47,80,95,Organic Compost
+muskmelon,46,104,19,MOP
+muskmelon,103,14,52,DAP
+muskmelon,111,80,17,MOP
+muskmelon,96,43,46,NPK 10-26-26
+muskmelon,44,25,98,DAP
+muskmelon,121,106,86,NPK 20-20-20
+muskmelon,134,88,45,NPK 10-26-26
+muskmelon,54,95,76,Organic Compost
+muskmelon,101,33,90,DAP
+muskmelon,54,53,44,NPK 10-26-26
+muskmelon,85,21,27,DAP
+muskmelon,10,94,78,Urea
+muskmelon,110,113,103,NPK 20-20-20
+muskmelon,18,28,82,Urea
+muskmelon,91,108,83,NPK 20-20-20
+muskmelon,66,86,77,Organic Compost
+muskmelon,36,68,23,Urea
+muskmelon,94,100,14,MOP
+muskmelon,70,49,45,NPK 10-26-26
+muskmelon,52,86,118,Organic Compost
+muskmelon,32,110,95,Urea
+muskmelon,95,62,6,MOP
+muskmelon,77,31,36,DAP
+muskmelon,27,49,37,Urea
+muskmelon,37,97,5,Urea
+muskmelon,22,54,61,Urea
+muskmelon,117,26,118,DAP
+muskmelon,115,68,117,Organic Compost
+muskmelon,106,49,74,Organic Compost
+muskmelon,106,17,111,DAP
+muskmelon,132,105,115,NPK 20-20-20
+muskmelon,67,25,62,DAP
+muskmelon,28,107,113,Urea
+muskmelon,18,42,7,Urea
+muskmelon,91,38,18,DAP
+muskmelon,28,48,26,Urea
+muskmelon,106,25,98,DAP
+muskmelon,29,75,119,Urea
+muskmelon,33,48,81,Urea
+muskmelon,133,95,8,MOP
+muskmelon,120,88,26,MOP
+muskmelon,121,25,11,DAP
+muskmelon,35,47,31,Urea
+muskmelon,58,57,94,Organic Compost
+muskmelon,77,89,41,NPK 10-26-26
+muskmelon,86,35,17,DAP
+muskmelon,22,55,78,Urea
+muskmelon,135,24,11,DAP
+muskmelon,102,5,59,DAP
+muskmelon,32,42,110,Urea
+muskmelon,132,30,17,DAP
+muskmelon,16,31,26,Urea
+muskmelon,84,15,65,DAP
+muskmelon,39,44,105,Urea
+muskmelon,111,65,67,NPK 10-26-26
+muskmelon,77,16,87,DAP
+muskmelon,109,28,52,DAP
+muskmelon,107,52,28,MOP
+muskmelon,124,10,38,DAP
+muskmelon,122,64,38,MOP
+muskmelon,67,112,39,MOP
+muskmelon,25,24,101,Urea
+muskmelon,34,15,90,Urea
+muskmelon,98,108,74,Organic Compost
+muskmelon,115,101,80,Organic Compost
+muskmelon,68,75,12,MOP
+muskmelon,109,109,71,Organic Compost
+muskmelon,117,73,92,Organic Compost
+muskmelon,131,78,117,Organic Compost
+muskmelon,70,65,43,NPK 10-26-26
+muskmelon,30,55,120,Urea
+muskmelon,18,69,78,Urea
+muskmelon,47,20,101,DAP
+muskmelon,124,27,26,DAP
+muskmelon,64,108,29,MOP
+muskmelon,42,10,59,DAP
+muskmelon,30,92,60,Urea
+muskmelon,61,110,85,Organic Compost
+muskmelon,47,111,81,Organic Compost
+muskmelon,76,45,98,Organic Compost
+muskmelon,27,16,54,Urea
+muskmelon,111,75,46,NPK 10-26-26
+muskmelon,80,71,63,NPK 10-26-26
+muskmelon,13,105,94,Urea
+muskmelon,117,19,58,DAP
+muskmelon,48,23,77,DAP
+muskmelon,35,18,77,Urea
+muskmelon,35,105,41,Urea
+muskmelon,98,117,57,NPK 10-26-26
+muskmelon,77,54,88,Organic Compost
+apple,134,78,82,Organic Compost
+apple,131,9,27,DAP
+apple,80,56,23,MOP
+apple,112,9,55,DAP
+apple,94,93,35,MOP
+apple,22,100,65,Urea
+apple,78,119,52,NPK 10-26-26
+apple,15,48,109,Urea
+apple,87,44,40,NPK 10-26-26
+apple,135,114,94,NPK 20-20-20
+apple,35,116,34,Urea
+apple,44,43,100,Organic Compost
+apple,123,104,110,NPK 20-20-20
+apple,92,39,98,DAP
+apple,116,82,87,NPK 20-20-20
+apple,32,29,61,Urea
+apple,64,110,57,NPK 10-26-26
+apple,134,102,71,Organic Compost
+apple,105,110,12,MOP
+apple,50,13,44,DAP
+apple,139,56,22,MOP
+apple,17,27,29,Urea
+apple,61,112,12,MOP
+apple,73,9,63,DAP
+apple,22,51,95,Urea
+apple,60,40,52,NPK 10-26-26
+apple,128,69,55,NPK 10-26-26
+apple,41,92,8,MOP
+apple,71,52,67,NPK 10-26-26
+apple,124,27,116,DAP
+apple,131,80,75,Organic Compost
+apple,99,49,25,MOP
+apple,76,100,111,Organic Compost
+apple,33,41,8,Urea
+apple,108,11,25,DAP
+apple,64,114,33,MOP
+apple,67,91,31,MOP
+apple,78,88,57,NPK 10-26-26
+apple,15,115,104,Urea
+apple,12,65,21,Urea
+apple,54,81,107,Organic Compost
+apple,12,33,37,Urea
+apple,88,96,95,NPK 20-20-20
+apple,80,59,119,Organic Compost
+apple,106,114,49,NPK 10-26-26
+apple,127,37,32,DAP
+apple,129,43,91,Organic Compost
+apple,111,79,18,MOP
+apple,11,70,89,Urea
+apple,105,76,87,Organic Compost
+apple,82,43,92,Organic Compost
+apple,37,66,13,Urea
+apple,96,40,86,Organic Compost
+apple,93,115,40,NPK 10-26-26
+apple,76,88,96,Organic Compost
+apple,86,29,24,DAP
+apple,71,120,12,MOP
+apple,113,89,45,NPK 10-26-26
+apple,45,97,8,MOP
+apple,137,42,38,MOP
+apple,117,56,54,NPK 10-26-26
+apple,19,79,95,Urea
+apple,58,48,97,Organic Compost
+apple,66,92,73,Organic Compost
+apple,131,90,50,NPK 10-26-26
+apple,139,43,113,Organic Compost
+apple,53,112,89,Organic Compost
+apple,56,42,17,MOP
+apple,130,21,99,DAP
+apple,76,97,108,Organic Compost
+apple,56,92,120,Organic Compost
+apple,95,88,16,MOP
+apple,66,50,33,MOP
+apple,88,58,105,Organic Compost
+apple,94,52,38,MOP
+apple,85,64,113,Organic Compost
+apple,40,65,11,MOP
+apple,28,65,118,Urea
+apple,59,69,20,MOP
+apple,107,72,43,NPK 10-26-26
+apple,115,11,116,DAP
+apple,48,22,30,DAP
+apple,97,57,77,Organic Compost
+apple,127,23,45,DAP
+apple,56,104,15,MOP
+apple,134,47,85,Organic Compost
+apple,55,45,86,Organic Compost
+apple,24,5,62,Urea
+apple,80,31,102,DAP
+apple,53,78,102,Organic Compost
+apple,50,67,105,Organic Compost
+apple,32,21,83,Urea
+apple,121,86,59,NPK 10-26-26
+apple,113,59,66,NPK 10-26-26
+apple,108,5,9,DAP
+apple,61,98,52,NPK 10-26-26
+apple,13,119,46,Urea
+apple,58,7,91,DAP
+apple,11,85,98,Urea
+apple,73,33,93,DAP
+orange,98,44,21,MOP
+orange,36,54,69,Urea
+orange,88,26,13,DAP
+orange,21,43,42,Urea
+orange,126,98,71,Organic Compost
+orange,96,60,118,Organic Compost
+orange,44,48,120,Organic Compost
+orange,135,50,101,Organic Compost
+orange,58,26,108,DAP
+orange,113,7,34,DAP
+orange,67,98,21,MOP
+orange,64,98,7,MOP
+orange,139,26,20,DAP
+orange,103,96,88,NPK 20-20-20
+orange,19,53,117,Urea
+orange,75,103,73,Organic Compost
+orange,22,81,11,Urea
+orange,37,88,112,Urea
+orange,15,11,93,Urea
+orange,39,58,61,Urea
+orange,107,20,75,DAP
+orange,74,65,94,Organic Compost
+orange,49,31,93,DAP
+orange,12,43,58,Urea
+orange,35,89,71,Urea
+orange,79,84,82,Organic Compost
+orange,45,58,111,Organic Compost
+orange,36,70,97,Urea
+orange,40,41,19,MOP
+orange,37,68,30,Urea
+orange,61,104,38,MOP
+orange,61,50,95,Organic Compost
+orange,114,42,25,MOP
+orange,20,75,68,Urea
+orange,63,93,66,NPK 10-26-26
+orange,94,35,5,DAP
+orange,13,90,16,Urea
+orange,38,111,78,Urea
+orange,136,24,16,DAP
+orange,140,14,97,DAP
+orange,35,120,37,Urea
+orange,69,63,42,NPK 10-26-26
+orange,77,64,11,MOP
+orange,35,109,27,Urea
+orange,20,114,42,Urea
+orange,102,107,91,NPK 20-20-20
+orange,90,59,99,Organic Compost
+orange,39,17,113,Urea
+orange,21,6,114,Urea
+orange,45,89,87,Organic Compost
+orange,53,47,50,NPK 10-26-26
+orange,122,84,39,MOP
+orange,33,52,109,Urea
+orange,97,28,19,DAP
+orange,112,56,63,NPK 10-26-26
+orange,79,111,54,NPK 10-26-26
+orange,132,107,58,NPK 10-26-26
+orange,52,19,21,DAP
+orange,25,113,25,Urea
+orange,36,58,80,Urea
+orange,133,107,77,Organic Compost
+orange,122,28,83,DAP
+orange,107,104,50,NPK 10-26-26
+orange,17,115,92,Urea
+orange,43,66,67,NPK 10-26-26
+orange,38,118,57,Urea
+orange,122,10,13,DAP
+orange,76,88,45,NPK 10-26-26
+orange,13,95,116,Urea
+orange,67,90,116,Organic Compost
+orange,96,71,71,Organic Compost
+orange,34,60,89,Urea
+orange,73,66,49,NPK 10-26-26
+orange,108,24,112,DAP
+orange,23,6,87,Urea
+orange,50,69,113,Organic Compost
+orange,130,114,68,NPK 10-26-26
+orange,52,14,101,DAP
+orange,135,46,35,MOP
+orange,94,40,11,MOP
+orange,139,33,75,DAP
+orange,106,56,109,Organic Compost
+orange,70,15,63,DAP
+orange,123,107,78,Organic Compost
+orange,124,16,114,DAP
+orange,137,62,45,NPK 10-26-26
+orange,40,68,100,Organic Compost
+orange,14,18,56,Urea
+orange,115,9,76,DAP
+orange,10,110,16,Urea
+orange,87,118,70,Organic Compost
+orange,62,88,90,Organic Compost
+orange,126,48,51,NPK 10-26-26
+orange,23,109,33,Urea
+orange,126,47,76,Organic Compost
+orange,131,96,89,NPK 20-20-20
+orange,103,96,62,NPK 10-26-26
+orange,39,17,102,Urea
+orange,66,5,48,DAP
+orange,100,111,86,NPK 20-20-20
+papaya,84,75,71,Organic Compost
+papaya,105,94,18,MOP
+papaya,21,119,26,Urea
+papaya,136,22,110,DAP
+papaya,114,18,37,DAP
+papaya,60,29,20,DAP
+papaya,110,32,63,DAP
+papaya,58,96,48,NPK 10-26-26
+papaya,37,101,58,Urea
+papaya,21,86,112,Urea
+papaya,41,103,119,Organic Compost
+papaya,125,63,89,Organic Compost
+papaya,139,22,68,DAP
+papaya,11,72,99,Urea
+papaya,22,75,60,Urea
+papaya,133,70,104,Organic Compost
+papaya,55,93,79,Organic Compost
+papaya,54,98,109,Organic Compost
+papaya,42,18,54,DAP
+papaya,92,69,117,Organic Compost
+papaya,108,58,82,Organic Compost
+papaya,73,40,55,NPK 10-26-26
+papaya,97,42,62,NPK 10-26-26
+papaya,44,22,57,DAP
+papaya,86,112,94,NPK 20-20-20
+papaya,90,96,99,NPK 20-20-20
+papaya,65,30,31,DAP
+papaya,84,92,49,NPK 10-26-26
+papaya,43,95,88,Organic Compost
+papaya,55,69,74,NPK 17-17-17
+papaya,92,95,19,MOP
+papaya,100,76,66,NPK 10-26-26
+papaya,116,91,100,NPK 20-20-20
+papaya,83,117,113,NPK 20-20-20
+papaya,118,108,6,MOP
+papaya,37,8,53,Urea
+papaya,47,11,90,DAP
+papaya,24,30,39,Urea
+papaya,51,41,92,Organic Compost
+papaya,74,23,112,DAP
+papaya,25,93,105,Urea
+papaya,85,31,101,DAP
+papaya,18,50,109,Urea
+papaya,125,18,83,DAP
+papaya,67,100,87,Organic Compost
+papaya,109,35,70,DAP
+papaya,83,93,90,NPK 20-20-20
+papaya,22,53,54,Urea
+papaya,116,105,92,NPK 20-20-20
+papaya,90,75,11,MOP
+papaya,13,100,37,Urea
+papaya,61,84,116,Organic Compost
+papaya,123,111,33,MOP
+papaya,104,101,80,Organic Compost
+papaya,60,104,97,Organic Compost
+papaya,59,42,62,NPK 10-26-26
+papaya,55,92,14,MOP
+papaya,57,27,99,DAP
+papaya,40,53,10,MOP
+papaya,119,40,76,Organic Compost
+papaya,77,21,25,DAP
+papaya,75,5,47,DAP
+papaya,129,95,24,MOP
+papaya,20,24,46,Urea
+papaya,23,104,85,Urea
+papaya,87,67,106,Organic Compost
+papaya,101,14,105,DAP
+papaya,91,72,33,MOP
+papaya,57,71,13,MOP
+papaya,139,25,58,DAP
+papaya,113,16,49,DAP
+papaya,66,118,32,MOP
+papaya,94,47,51,NPK 10-26-26
+papaya,85,32,101,DAP
+papaya,131,76,110,Organic Compost
+papaya,12,19,90,Urea
+papaya,98,62,35,MOP
+papaya,72,10,92,DAP
+papaya,92,53,106,Organic Compost
+papaya,39,54,37,Urea
+papaya,82,8,71,DAP
+papaya,105,70,107,Organic Compost
+papaya,140,62,67,NPK 10-26-26
+papaya,21,42,119,Urea
+papaya,59,46,70,NPK 17-17-17
+papaya,31,17,26,Urea
+papaya,11,85,13,Urea
+papaya,63,90,85,Organic Compost
+papaya,64,115,92,Organic Compost
+papaya,118,111,18,MOP
+papaya,62,73,111,Organic Compost
+papaya,121,87,109,NPK 20-20-20
+papaya,28,100,92,Urea
+papaya,49,8,63,DAP
+papaya,94,9,16,DAP
+papaya,28,11,27,Urea
+papaya,74,76,14,MOP
+papaya,68,38,57,DAP
+papaya,109,62,85,Organic Compost
+papaya,113,60,45,NPK 10-26-26
+coconut,14,54,91,Urea
+coconut,40,73,5,MOP
+coconut,26,101,100,Urea
+coconut,21,94,113,Urea
+coconut,28,50,69,Urea
+coconut,37,42,105,Urea
+coconut,87,82,16,MOP
+coconut,82,102,61,NPK 10-26-26
+coconut,107,55,110,Organic Compost
+coconut,17,65,25,Urea
+coconut,66,22,100,DAP
+coconut,110,106,107,NPK 20-20-20
+coconut,85,86,23,MOP
+coconut,86,91,118,NPK 20-20-20
+coconut,105,6,75,DAP
+coconut,46,20,10,DAP
+coconut,11,78,81,Urea
+coconut,110,73,75,Organic Compost
+coconut,31,44,31,Urea
+coconut,98,32,57,DAP
+coconut,46,25,28,DAP
+coconut,66,83,111,Organic Compost
+coconut,74,29,19,DAP
+coconut,56,90,107,Organic Compost
+coconut,23,113,101,Urea
+coconut,128,87,75,Organic Compost
+coconut,28,42,90,Urea
+coconut,27,37,17,Urea
+coconut,60,97,79,Organic Compost
+coconut,134,47,50,NPK 10-26-26
+coconut,42,90,88,Organic Compost
+coconut,70,17,41,DAP
+coconut,27,120,29,Urea
+coconut,91,67,62,NPK 10-26-26
+coconut,94,83,89,NPK 20-20-20
+coconut,88,93,79,Organic Compost
+coconut,49,77,77,NPK 17-17-17
+coconut,103,108,45,NPK 10-26-26
+coconut,119,26,5,DAP
+coconut,90,36,105,DAP
+coconut,66,96,99,Organic Compost
+coconut,121,40,112,Organic Compost
+coconut,102,22,91,DAP
+coconut,94,117,66,NPK 10-26-26
+coconut,128,62,50,NPK 10-26-26
+coconut,88,67,75,Organic Compost
+coconut,37,27,87,Urea
+coconut,30,112,40,Urea
+coconut,45,119,73,Organic Compost
+coconut,60,38,98,DAP
+coconut,29,98,14,Urea
+coconut,14,113,69,Urea
+coconut,17,109,79,Urea
+coconut,113,103,80,Organic Compost
+coconut,64,9,75,DAP
+coconut,76,74,119,Organic Compost
+coconut,130,88,104,NPK 20-20-20
+coconut,48,51,55,NPK 10-26-26
+coconut,67,119,103,Organic Compost
+coconut,84,22,64,DAP
+coconut,138,70,16,MOP
+coconut,111,51,69,NPK 10-26-26
+coconut,12,89,35,Urea
+coconut,52,101,70,Organic Compost
+coconut,45,62,25,MOP
+coconut,55,77,77,NPK 17-17-17
+coconut,47,99,98,Organic Compost
+coconut,133,50,10,MOP
+coconut,66,102,67,NPK 10-26-26
+coconut,69,13,38,DAP
+coconut,104,34,10,DAP
+coconut,62,71,106,Organic Compost
+coconut,102,54,65,NPK 10-26-26
+coconut,126,117,10,MOP
+coconut,20,88,46,Urea
+coconut,36,95,71,Urea
+coconut,80,111,99,Organic Compost
+coconut,77,79,74,NPK 17-17-17
+coconut,54,53,88,Organic Compost
+coconut,106,51,80,Organic Compost
+coconut,29,71,37,Urea
+coconut,106,33,71,DAP
+coconut,113,50,109,Organic Compost
+coconut,98,67,106,Organic Compost
+coconut,133,118,82,NPK 20-20-20
+coconut,11,69,117,Urea
+coconut,45,61,26,MOP
+coconut,68,14,70,DAP
+coconut,81,32,24,DAP
+coconut,57,25,51,DAP
+coconut,40,89,34,MOP
+coconut,116,108,47,NPK 10-26-26
+coconut,39,66,91,Urea
+coconut,132,66,31,MOP
+coconut,51,87,111,Organic Compost
+coconut,115,7,36,DAP
+coconut,21,21,78,Urea
+coconut,51,22,85,DAP
+coconut,20,119,78,Urea
+coconut,47,12,26,DAP
+cotton,76,28,71,DAP
+cotton,113,81,77,Organic Compost
+cotton,14,117,97,Urea
+cotton,82,15,32,DAP
+cotton,124,82,65,NPK 10-26-26
+cotton,133,26,33,DAP
+cotton,115,81,23,MOP
+cotton,56,84,89,Organic Compost
+cotton,140,38,26,DAP
+cotton,97,63,81,Organic Compost
+cotton,27,34,53,Urea
+cotton,108,21,18,DAP
+cotton,14,30,71,Urea
+cotton,139,92,58,NPK 10-26-26
+cotton,48,82,17,MOP
+cotton,55,65,120,Organic Compost
+cotton,19,117,105,Urea
+cotton,138,101,20,MOP
+cotton,33,66,89,Urea
+cotton,43,120,82,Organic Compost
+cotton,10,119,104,Urea
+cotton,120,71,58,NPK 10-26-26
+cotton,104,116,10,MOP
+cotton,119,34,107,DAP
+cotton,133,106,103,NPK 20-20-20
+cotton,107,49,80,Organic Compost
+cotton,35,59,22,Urea
+cotton,75,66,103,Organic Compost
+cotton,69,114,15,MOP
+cotton,82,81,117,NPK 20-20-20
+cotton,114,37,29,DAP
+cotton,11,95,100,Urea
+cotton,11,78,71,Urea
+cotton,40,71,5,MOP
+cotton,106,88,31,MOP
+cotton,90,57,51,NPK 10-26-26
+cotton,37,24,59,Urea
+cotton,74,38,114,DAP
+cotton,118,77,51,NPK 10-26-26
+cotton,80,92,55,NPK 10-26-26
+cotton,62,57,75,NPK 17-17-17
+cotton,133,27,52,DAP
+cotton,133,37,44,DAP
+cotton,98,104,95,NPK 20-20-20
+cotton,111,99,22,MOP
+cotton,40,100,34,MOP
+cotton,124,105,94,NPK 20-20-20
+cotton,51,17,32,DAP
+cotton,140,56,105,Organic Compost
+cotton,96,107,75,Organic Compost
+cotton,23,25,54,Urea
+cotton,11,107,16,Urea
+cotton,47,65,81,Organic Compost
+cotton,121,16,13,DAP
+cotton,77,33,52,DAP
+cotton,30,82,9,Urea
+cotton,108,56,83,Organic Compost
+cotton,83,96,81,NPK 20-20-20
+cotton,24,104,109,Urea
+cotton,54,86,68,NPK 10-26-26
+cotton,122,6,30,DAP
+cotton,83,29,9,DAP
+cotton,140,71,94,Organic Compost
+cotton,69,83,26,MOP
+cotton,19,51,35,Urea
+cotton,10,25,16,Urea
+cotton,80,104,56,NPK 10-26-26
+cotton,100,90,55,NPK 10-26-26
+cotton,113,80,30,MOP
+cotton,13,99,95,Urea
+cotton,27,16,75,Urea
+cotton,82,97,111,NPK 20-20-20
+cotton,99,49,109,Organic Compost
+cotton,80,33,82,DAP
+cotton,59,63,56,NPK 10-26-26
+cotton,11,38,27,Urea
+cotton,114,69,18,MOP
+cotton,28,69,42,Urea
+cotton,97,19,107,DAP
+cotton,75,117,73,Organic Compost
+cotton,74,93,61,NPK 10-26-26
+cotton,106,77,66,NPK 10-26-26
+cotton,72,101,48,NPK 10-26-26
+cotton,127,92,63,NPK 10-26-26
+cotton,17,66,19,Urea
+cotton,76,13,53,DAP
+cotton,66,91,94,Organic Compost
+cotton,68,107,45,NPK 10-26-26
+cotton,115,50,71,Organic Compost
+cotton,12,94,111,Urea
+cotton,77,36,41,DAP
+cotton,33,56,91,Urea
+cotton,97,14,75,DAP
+cotton,55,65,45,NPK 10-26-26
+cotton,100,32,119,DAP
+cotton,78,28,100,DAP
+cotton,58,68,99,Organic Compost
+cotton,61,35,99,DAP
+cotton,71,116,38,MOP
+cotton,62,34,30,DAP
+jute,73,112,84,Organic Compost
+jute,101,24,104,DAP
+jute,37,20,15,Urea
+jute,136,83,5,MOP
+jute,20,113,66,Urea
+jute,105,84,45,NPK 10-26-26
+jute,136,119,117,NPK 20-20-20
+jute,80,67,28,MOP
+jute,140,40,55,NPK 10-26-26
+jute,66,101,78,Organic Compost
+jute,42,11,72,DAP
+jute,118,66,74,Organic Compost
+jute,18,69,49,Urea
+jute,110,115,92,NPK 20-20-20
+jute,54,63,20,MOP
+jute,127,45,93,Organic Compost
+jute,12,6,91,Urea
+jute,63,53,79,NPK 17-17-17
+jute,35,46,51,Urea
+jute,76,28,75,DAP
+jute,77,35,39,DAP
+jute,130,83,48,NPK 10-26-26
+jute,103,28,68,DAP
+jute,118,31,58,DAP
+jute,105,51,114,Organic Compost
+jute,112,40,62,NPK 10-26-26
+jute,56,78,21,MOP
+jute,68,109,17,MOP
+jute,79,107,35,MOP
+jute,120,114,53,NPK 10-26-26
+jute,60,23,107,DAP
+jute,48,65,108,Organic Compost
+jute,12,27,58,Urea
+jute,137,22,119,DAP
+jute,90,105,67,NPK 10-26-26
+jute,86,37,76,DAP
+jute,22,55,17,Urea
+jute,51,12,32,DAP
+jute,75,65,112,Organic Compost
+jute,34,62,100,Urea
+jute,95,38,51,DAP
+jute,102,76,76,Organic Compost
+jute,75,49,7,MOP
+jute,115,20,49,DAP
+jute,60,78,78,NPK 17-17-17
+jute,54,104,41,NPK 10-26-26
+jute,100,46,91,Organic Compost
+jute,140,67,104,Organic Compost
+jute,124,118,15,MOP
+jute,107,83,41,NPK 10-26-26
+jute,128,85,23,MOP
+jute,52,86,108,Organic Compost
+jute,96,58,85,Organic Compost
+jute,113,113,14,MOP
+jute,30,25,48,Urea
+jute,68,45,45,NPK 10-26-26
+jute,84,95,39,MOP
+jute,111,39,118,DAP
+jute,123,104,115,NPK 20-20-20
+jute,102,100,80,Organic Compost
+jute,125,57,26,MOP
+jute,57,114,7,MOP
+jute,42,98,35,MOP
+jute,74,100,94,Organic Compost
+jute,30,31,26,Urea
+jute,111,18,17,DAP
+jute,26,117,65,Urea
+jute,23,8,103,Urea
+jute,111,72,102,Organic Compost
+jute,31,18,38,Urea
+jute,49,15,88,DAP
+jute,109,44,34,MOP
+jute,73,99,41,NPK 10-26-26
+jute,123,85,21,MOP
+jute,43,72,112,Organic Compost
+jute,53,8,9,DAP
+jute,101,115,46,NPK 10-26-26
+jute,131,64,116,Organic Compost
+jute,79,75,61,NPK 10-26-26
+jute,44,94,74,Organic Compost
+jute,55,80,81,Organic Compost
+jute,126,85,100,NPK 20-20-20
+jute,121,72,86,Organic Compost
+jute,89,49,66,NPK 10-26-26
+jute,68,108,16,MOP
+jute,123,44,51,NPK 10-26-26
+jute,115,38,24,DAP
+jute,87,6,5,DAP
+jute,44,49,41,NPK 10-26-26
+jute,130,73,6,MOP
+jute,135,101,66,NPK 10-26-26
+jute,86,6,103,DAP
+jute,120,107,42,NPK 10-26-26
+jute,69,106,5,MOP
+jute,105,29,57,DAP
+jute,121,55,36,MOP
+jute,51,96,99,Organic Compost
+jute,109,111,53,NPK 10-26-26
+jute,66,38,15,DAP
+jute,118,85,35,MOP
+coffee,79,41,88,Organic Compost
+coffee,78,57,29,MOP
+coffee,27,28,22,Urea
+coffee,84,19,86,DAP
+coffee,126,84,62,NPK 10-26-26
+coffee,79,94,84,Organic Compost
+coffee,135,29,46,DAP
+coffee,14,24,11,Urea
+coffee,15,28,18,Urea
+coffee,82,39,21,DAP
+coffee,122,98,6,MOP
+coffee,69,16,24,DAP
+coffee,13,68,32,Urea
+coffee,97,58,44,NPK 10-26-26
+coffee,137,52,64,NPK 10-26-26
+coffee,18,47,15,Urea
+coffee,47,12,39,DAP
+coffee,110,14,74,DAP
+coffee,130,28,29,DAP
+coffee,74,109,53,NPK 10-26-26
+coffee,13,20,103,Urea
+coffee,73,54,103,Organic Compost
+coffee,123,36,99,DAP
+coffee,18,30,63,Urea
+coffee,34,71,90,Urea
+coffee,63,65,54,NPK 10-26-26
+coffee,89,46,25,MOP
+coffee,20,100,75,Urea
+coffee,41,37,66,DAP
+coffee,86,30,51,DAP
+coffee,23,115,90,Urea
+coffee,65,19,35,DAP
+coffee,121,46,6,MOP
+coffee,52,106,40,NPK 10-26-26
+coffee,40,55,106,Organic Compost
+coffee,72,6,10,DAP
+coffee,131,93,81,NPK 20-20-20
+coffee,49,52,103,Organic Compost
+coffee,32,36,25,Urea
+coffee,137,16,92,DAP
+coffee,96,102,85,NPK 20-20-20
+coffee,25,12,50,Urea
+coffee,49,94,73,Organic Compost
+coffee,37,21,67,Urea
+coffee,69,45,76,NPK 17-17-17
+coffee,98,108,119,NPK 20-20-20
+coffee,122,98,29,MOP
+coffee,15,93,53,Urea
+coffee,101,97,22,MOP
+coffee,74,120,10,MOP
+coffee,134,95,61,NPK 10-26-26
+coffee,85,74,94,Organic Compost
+coffee,135,29,77,DAP
+coffee,57,74,49,NPK 10-26-26
+coffee,92,98,64,NPK 10-26-26
+coffee,80,116,111,Organic Compost
+coffee,51,13,72,DAP
+coffee,49,62,42,NPK 10-26-26
+coffee,77,74,51,NPK 10-26-26
+coffee,126,5,104,DAP
+coffee,139,53,98,Organic Compost
+coffee,57,118,7,MOP
+coffee,103,104,84,NPK 20-20-20
+coffee,71,46,97,Organic Compost
+coffee,26,89,73,Urea
+coffee,109,29,72,DAP
+coffee,137,103,75,Organic Compost
+coffee,49,83,41,NPK 10-26-26
+coffee,92,57,87,Organic Compost
+coffee,92,19,17,DAP
+coffee,27,10,111,Urea
+coffee,43,27,116,DAP
+coffee,18,30,18,Urea
+coffee,134,29,17,DAP
+coffee,18,78,87,Urea
+coffee,109,89,67,NPK 10-26-26
+coffee,75,11,51,DAP
+coffee,66,82,96,Organic Compost
+coffee,28,6,31,Urea
+coffee,135,118,111,NPK 20-20-20
+coffee,30,64,107,Urea
+coffee,25,51,76,Urea
+coffee,116,110,52,NPK 10-26-26
+coffee,24,110,83,Urea
+coffee,78,72,10,MOP
+coffee,28,111,43,Urea
+coffee,29,32,71,Urea
+coffee,34,17,97,Urea
+coffee,69,73,54,NPK 10-26-26
+coffee,58,29,72,DAP
+coffee,73,77,85,Organic Compost
+coffee,55,76,100,Organic Compost
+coffee,116,100,18,MOP
+coffee,101,91,63,NPK 10-26-26
+coffee,119,118,18,MOP
+coffee,52,106,28,MOP
+coffee,112,69,48,NPK 10-26-26
+coffee,50,73,81,Organic Compost
+coffee,123,50,120,Organic Compost
+coffee,90,75,46,NPK 10-26-26
