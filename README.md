@@ -8,7 +8,7 @@
 
 **AgriSmart AI** is an AI-powered intelligent farming platform developed as a **B.Tech Final Year Project** to support farmers with data-driven agricultural decisions.
 
-The platform integrates **Artificial Intelligence**, **Machine Learning**, and **Full Stack Web Development** to provide smart farming solutions through an easy-to-use web application.
+**Developed using React.js, Node.js, Express.js, MongoDB, and AI/ML models to provide intelligent farming solutions.**
 
 The system assists farmers by recommending suitable crops, detecting plant diseases, suggesting fertilizers, providing weather forecasts, recommending irrigation schedules, displaying market prices, and offering AI-powered chatbot assistance.
 
@@ -234,26 +234,6 @@ git clone https://github.com/hamsini1110/AgriSmart-AI.git
 
 ---
 
-## Install Frontend
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
-
-## Install Backend
-
-```bash
-cd backend
-npm install
-npm start
-```
-
----
-
 ## Environment Variables
 
 Create a `.env` file inside the backend folder.
@@ -267,10 +247,100 @@ MONGO_URI=your_mongodb_connection_string
 
 JWT_SECRET=your_secret_key
 
-WEATHER_API_KEY=your_api_key
+OPENWEATHER_API_KEY=your_openweather_api_key
+
+GEMINI_API_KEY=your_gemini_api_key
+```
+---
+
+# ▶️ How to Run the Project
+
+Follow these steps to run the AgriSmart AI project on your local machine.
+
+## 1. Clone the Repository
+
+```bash
+git clone https://github.com/hamsini1110/AgriSmart-AI.git
+cd AgriSmart-AI
 ```
 
 ---
+
+## 2. Install Dependencies
+
+### Frontend
+
+Open a terminal and run:
+
+```bash
+cd frontend
+npm install
+```
+
+### Backend
+
+Open another terminal and run:
+
+```bash
+cd backend
+npm install
+```
+
+---
+
+
+## 3. Start the Backend Server
+
+Run the following command:
+
+```bash
+cd backend
+npm run dev
+```
+
+or
+
+```bash
+npm start
+```
+
+The backend server will start at:
+
+```
+http://localhost:5000
+```
+
+---
+
+## 4. Start the Frontend
+
+Open another terminal and run:
+
+```bash
+cd frontend
+npm run dev
+```
+
+The frontend application will start at:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 5. Open the Application
+
+Open your browser and visit:
+
+```
+http://localhost:5173
+```
+
+Register a new account and log in to access the AgriSmart AI platform.
+
+---
+
 
 # 📷 Project Screenshots
 
@@ -285,7 +355,7 @@ You can add screenshots of:
 - Weather Module
 - Smart Irrigation
 - Market Prices
-- Chatbot
+- AI Chatbot
 
 ---
 
